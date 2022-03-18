@@ -1,0 +1,18 @@
+body {
+  background-color: wheat;
+  background-size: cover;
+  height: 100vh;
+
+  margin: 0;
+}
+
+h1 {
+  position: relative;
+  font-family: "Dancing Script", cursive;
+}
+td:hover {
+  background-color: beige;
+}
+table {
+  font-family: "Fredoka", sans-serif;
+}
